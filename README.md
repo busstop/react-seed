@@ -1,0 +1,1 @@
+This is a skeleton for a react project. You still have to install all the packages listed in package.json after you clone this repository.
